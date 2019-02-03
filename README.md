@@ -8,7 +8,7 @@ This is the Analysis of Weather Forecasting data Using MatplotLib library
 3. **matplotlib** - For plotting graphs 
 
 **This the analysis of weather using the data provided by openweather api And Using EDA(exploratory data analysis)**
-### There are some images of EDA
+### There are some images of EDA Done in this analysis
 
 Image 1
 
